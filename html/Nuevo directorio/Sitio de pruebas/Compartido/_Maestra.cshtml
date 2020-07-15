@@ -1,0 +1,24 @@
+﻿@{
+    
+}
+
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta  charset="utf-8" />
+        <title>@PageData["Titulo"]</title>
+    <link href="@Href("/Estilo/Estilos.css")" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="cabecera">
+    @RenderPage("/Compartido/_Cabecera.cshtml")
+        </div>
+        <div id="main">
+    @RenderBody()
+        </div> 
+        <div id="pie">
+    @RenderPage("/Compartido/_pie.cshtml")
+        </div>  
+    </body>
+</html>

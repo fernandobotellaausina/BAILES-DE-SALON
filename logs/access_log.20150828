@@ -1,0 +1,4 @@
+5.9.145.132 - - [28/Aug/2015:12:52:06 +0200] "GET /Pagina%20informacion.htm HTTP/1.1" 200 8848 "-" "Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130328 Firefox/21.0" "-"
+66.249.93.189 - - [28/Aug/2015:13:32:22 +0200] "GET /imagenes/news7.gif HTTP/1.1" 200 163160 "-" "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)" "-"
+66.249.75.240 - - [28/Aug/2015:20:14:16 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.75.240 - - [28/Aug/2015:20:14:16 +0200] "GET / HTTP/1.1" 200 7499 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"

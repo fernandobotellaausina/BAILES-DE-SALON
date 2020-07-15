@@ -1,0 +1,4 @@
+66.249.64.182 - - [14/Aug/2015:17:50:39 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.64.177 - - [14/Aug/2015:17:50:39 +0200] "GET / HTTP/1.1" 200 7499 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.64.177 - - [14/Aug/2015:17:53:38 +0200] "GET /Pagina%20informacion.htm HTTP/1.1" 200 8848 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.93.193 - - [14/Aug/2015:22:48:44 +0200] "GET /imagenes/Tarjeta_peque%C3%B1a.jpg HTTP/1.1" 200 17785 "-" "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)" "-"

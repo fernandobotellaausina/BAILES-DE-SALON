@@ -1,0 +1,7 @@
+216.145.11.94 - - [03/Sep/2015:00:53:20 +0200] "GET /robots.txt HTTP/1.0" 404 491 "-" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)" "-"
+216.145.11.94 - - [03/Sep/2015:00:53:20 +0200] "GET / HTTP/1.1" 200 7499 "http://whois.domaintools.com/bailesfernandobotella.es" "Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (DomainTools)" "-"
+66.249.64.177 - - [03/Sep/2015:02:56:26 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+66.249.64.172 - - [03/Sep/2015:02:56:26 +0200] "GET / HTTP/1.1" 200 7499 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-"
+157.55.39.62 - - [03/Sep/2015:05:13:30 +0200] "GET /Pagina%20servicios.htm HTTP/1.1" 200 8382 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0;  http://www.bing.com/bingbot.htm)" "-"
+157.55.39.173 - - [03/Sep/2015:05:13:40 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-"
+69.171.227.115 - - [03/Sep/2015:08:21:29 +0200] "GET / HTTP/1.1" 200 7499 "-" "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)" "-"

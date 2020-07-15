@@ -1,0 +1,13 @@
+body {margin: 0; 
+padding: 1em; 
+background-color: #ffffff; 
+font: 125%/1.75em Verdana, sans-serif; 
+color: #006600;
+}
+#cabecera, #pie 
+{ 
+margin: 0; 
+padding: 0; 
+color: #996600;
+font: 200%/2.00em Times New Roma;
+}

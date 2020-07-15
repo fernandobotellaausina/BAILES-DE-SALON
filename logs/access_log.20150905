@@ -1,0 +1,2 @@
+157.55.39.207 - - [05/Sep/2015:14:33:19 +0200] "GET /robots.txt HTTP/1.1" 404 491 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-"
+157.55.39.207 - - [05/Sep/2015:14:33:26 +0200] "GET /Pagina%20contacto.htm HTTP/1.1" 304 136 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-"
